@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナンバーコール",
+  "base_artist": "phatmans after school",
+  "createdAt": "2025-12-16T19:48:27.883705Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナンバーコール",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_01_ナンバーコール_phatmans_after_school.txt"
+    }
+  ]
+}
